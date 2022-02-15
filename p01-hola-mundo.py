@@ -1,5 +1,6 @@
 # Lee datos y venvia un saludo
 
+
 print('Leyendo datos por teclado y enviar saludo a pantalla')
 nombre = input('Dame tu nombre?')
 edad= int(input('dame tu edad'))

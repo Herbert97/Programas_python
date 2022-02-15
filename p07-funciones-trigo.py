@@ -1,6 +1,7 @@
 # uso de  las funciones trigonometicas en python
 import math 
 
+
 print('calculando funciones trignometricas...')
 angulogrados = int(input('Dame el angulo el grados'))
 angulo = math.radians(angulogrados) #convierte grados a radianes

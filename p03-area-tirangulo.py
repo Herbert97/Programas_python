@@ -1,5 +1,6 @@
 # CALCULAR EL AREA DE UN TRIANGULO
 
+
  # entrada
 print('Calculando el area de un triangulo...')
 print('Dame la base y la altura del triangulo')

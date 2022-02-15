@@ -1,5 +1,6 @@
 # Calcular la paga  de un trabajador
 print("Calculando la paga de un trabajador")
+
 # Entrada
 nombre = input('nombre del trabajador')
 horas  = int(input('Horas trabajadas'))

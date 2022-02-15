@@ -1,5 +1,6 @@
 # Calcular la suma y el promedio de tres calificaciones
 
+
 print('Calculando el promedio de 3 calificaciones')
 print('dame tres calificaciones separadas por un espacio: ')
 c1,c2,c3 =input().split()
