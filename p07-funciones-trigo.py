@@ -3,7 +3,7 @@ import math
 
 
 print('calculando funciones trignometricas...')
-angulogrados = int(input('Dame el angulo el grados'))
+angulogrados = int(input('Dame el angulo en grados'))
 angulo = math.radians(angulogrados) #convierte grados a radianes
 seno = math.sin(angulo)
 coseno = math.cos(angulo)
