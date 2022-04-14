@@ -15,7 +15,6 @@ while n!='&':
         ciudades2.remove(n)
     if n.startswith('I'):
         ciudades2.remove(n)
-        ciudades2.append(n)
     if n.startswith('O'):
         ciudades2.remove(n)
     if n.startswith('U'):
