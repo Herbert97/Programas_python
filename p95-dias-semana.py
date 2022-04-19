@@ -1,0 +1,7 @@
+# diccionarios con los dias de la semana
+dias={1:'Lunes',2:'Martes',3:'Miercoles',4:'Jueves',5:'Viernes',6:'Sabado',7:'Domingo'}
+
+print(f'los dias de la semana son: {dias}')
+n=int(input('ingrese el numero de dia: '))
+
+print(f'el dia de la semana es: {dias.get(n)}')
