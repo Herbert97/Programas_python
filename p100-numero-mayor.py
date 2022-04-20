@@ -7,6 +7,7 @@ def mayor(c1,c2,c3):
     else:
         may = c3
     return may
+   
     
 print("Dame 3 calificaciones")
 a,b,c = float(input()), float(input()), float(input())

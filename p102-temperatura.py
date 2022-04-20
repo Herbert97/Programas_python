@@ -4,6 +4,7 @@ def farenheit(temp):
 def centigrados(temp):
     return ( temp-32 ) * (5/9)
 
+
 print('[ 1 ] Convertir a Farenheit')
 print('[ 2 ] Convertir a Centigrados')
 op = int(input("Elige ? "))

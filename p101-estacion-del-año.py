@@ -12,5 +12,6 @@ def estacion(n):
         est=''
     return est
 
+
 n = int(input('Dame la estacion del año (1-4) ? '))
 print(f'La estacion del año es {estacion(n)}')
